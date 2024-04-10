@@ -1,0 +1,8 @@
+In this project using SMTP(Simple mail transfer protocol) to send the mail.
+Project - Maven
+Language - Java
+Spring Boot - 3.2.4
+Packaging - Jar
+Java - 17
+Dependency - Java Mail Sender I/O
+Send email using Java Mail and Spring Framework's JavaMailSender.
